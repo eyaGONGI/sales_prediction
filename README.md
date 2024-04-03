@@ -23,6 +23,8 @@ Here is the Data Dictionary of the dataset
 [ ![image](https://github.com/eyaGONGI/sales_prediction/assets/118536575/d62c7263-17b9-44f1-9228-8f8a7996fd3c)
  ]
 
+ 
+
 ## Methods 
 ### Data preparation steps 
 * Data Shape
@@ -33,6 +35,24 @@ Here is the Data Dictionary of the dataset
 * Summary statistics of numeric data
   
 ## Results 
+During the exploratory data analysis, a histogram was visualized for each numeric datatype column. 
+
+### Outlet Size Graph
+
+![explanatory 1 ](https://github.com/eyaGONGI/sales_prediction/assets/118536575/2ee35419-cab2-4158-b5e6-8cade25961ab)
+
+The majority of outlet articles are medium size
+
+### Outlet Establishement Year
+
+![Capture d'écran 2024-04-02 145156](https://github.com/eyaGONGI/sales_prediction/assets/118536575/4354b7c8-33b9-4be7-9ed6-3eff851c106a)
+
+This graph shows the year that outlet items were created. The sales team can conclude the sales rate of each year for sales increasing work.  
+
+### Features Correlation
+The heatmap shows the correlation between data columns. 
+
+![explanatory 4](https://github.com/eyaGONGI/sales_prediction/assets/118536575/c0b09c69-9026-4589-bc95-025d53ed225c)
 
 ## Model
 ### Machine Learning Models:
